@@ -37,7 +37,7 @@ body {
   max-width: 700px;
   width: 100%;
   height: 411px;
-  background: #fff;
+  background: rgba(61, 108, 122, 0.664);
   margin: 70px auto;
   box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.125);
   padding: 30px;
@@ -51,7 +51,7 @@ body {
   font-size: 15px;
   font-weight: 700;
   margin-bottom: 25px;
-  color: #632f75;
+  color: #ffffff;
   text-transform: uppercase;
   text-align: center;
 }
