@@ -34,9 +34,7 @@ document.getElementById("senddata").addEventListener("click", function () {
   console.log(`temprature: ${temprature}`)
   console.log(`tempratureunit: ${tempratureunit}`)
   console.log(`forcasting: ${forcasting}`)
-
-
-
+  
 
   let nHTML = "";
   myFormData.forEach(function (item) {
