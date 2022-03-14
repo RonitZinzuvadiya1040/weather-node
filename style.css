@@ -1,0 +1,79 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css);
+
+
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 1rem 10%;
+  height: 5rem;
+  background-color: #202020;
+}
+
+
+.logo a {
+  text-decoration: none;
+  color: #94fdfd;
+}
+
+
+.logo {
+  font-size: 1.5rem;
+  color: white;
+  font-family: "Fira", sans-serif;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #94fdfd;
+}
+
+
+body {
+  background: #bfdee4;
+}
+
+
+.wrapper {
+  max-width: 700px;
+  width: 100%;
+  height: 411px;
+  background: #fff;
+  margin: 70px auto;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.125);
+  padding: 30px;
+  border-radius: 25px;
+  text-align: center;
+  color: #000000;
+}
+
+
+.wrapper .title {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 25px;
+  color: #632f75;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+.wrapper .form {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left;
+}
+
+
+.wrapper .input {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: right;
+}
+
+
+.form {
+  text-align: left;
+}
